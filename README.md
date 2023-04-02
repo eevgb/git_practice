@@ -2,3 +2,5 @@
 Working with the git version control system
 
 Супер пуппер функция!
+
+Ещё одна супе функция!
